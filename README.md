@@ -1,1 +1,1 @@
-This is Projet 3 YOLO for AER850
+This is Project 3 YOLO for AER850
